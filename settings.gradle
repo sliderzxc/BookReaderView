@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BookReaderView"
 include ':sample'
-include ':library'
+include ':view'
