@@ -1,5 +1,6 @@
 package com.sliderzxc.bookreader.data
 
 data class Page(
-    val numberPage: Int
+    val pageNumber: Int = 0,
+    val text: String = ""
 )
